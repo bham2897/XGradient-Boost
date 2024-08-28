@@ -1,4 +1,4 @@
-XGBoost Regressor for Predicting Gym, Pool, and Fitness Activities
+XGBoost Regressor for Predicting Gym, Pool and Fitness Activities
 
 This project utilizes the XGBoost Regressor to predict various fitness-related activities, including gym access, pool access, classes, squash, and more, based on user data. The model evaluates the importance of different features and provides performance metrics to assess its predictive capabilities.
 
